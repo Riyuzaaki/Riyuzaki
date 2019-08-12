@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+}
+
+body
+{
+    text-align: center;
+    background: #1c2020;
+     font-family:'Ubuntu', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container
+{
+    border:none;
+    border-radius: 30px;
+    margin-left: 30%;
+     margin-right: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 80%;
+    background-color: white;
+}
+
+.imagecontainer i
+{
+    margin-top:10%;
+    color: #1c2020 ;
+}
+.container h1
+{
+    color:#1c2020;
+}
+.login
+{  margin: 10%;
+    margin-bottom: 0%;
+    width: 80%;
+    height: 10%;
+    line-height: 50px;
+    background:#1c2020;
+    border-radius: 10px;
+    font-family:'Ubuntu', sans-serif;
+     font-size: 20px;   
+
+}
+.login:hover
+{
+    background: #355bf2;
+    cursor: pointer;
+}
+.login a
+{
+        color: #fff;
+    font-weight: 600;
+}
+.signup
+{  margin: 0%;
+    margin-left: 10%;
+    width: 80%;
+    height: 10%;
+    line-height: 50px;
+    background:#1c2020;
+    border-radius: 10px;
+    font-family:'Ubuntu', sans-serif;
+     font-size: 20px;   
+}
+.signup:hover
+{
+    background: #f00e0e;
+    cursor: pointer;
+}
+.signup a
+{
+        color: #fff;
+    font-weight: 600;
+}
+
+.container form input
+{
+    border: none;
+    background: #edeff5;
+     width: 70%;
+    height: 8%;
+    padding: 10px;
+        border-radius: 10px;
+    
+}
+
+.container form button
+{
+     border: none;
+    background: #22a4e6;
+     width: 70%;
+    height: 8%;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.container form button:hover
+{
+      background: #144fff;
+     cursor: pointer;
+}
+
+.head
+{
+color: #22a4e6;
+}

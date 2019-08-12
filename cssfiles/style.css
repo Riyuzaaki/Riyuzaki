@@ -1,0 +1,22 @@
+body
+{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.container
+{
+    border: 1px solid black;
+}
+.imagecontainer 
+{
+    border: 1px solid black;
+}
+
+
+
+.imagecontainer img
+{
+     width=1000px;
+    height=1000px;
+}
